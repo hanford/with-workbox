@@ -3041,9 +3041,9 @@ ncp@~2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ncp/-/ncp-2.0.0.tgz#195a21d6c46e361d2fb1281ba38b91e9df7bdbb3"
 
-next-offline@~0.2.0-7:
-  version "0.2.0-7"
-  resolved "https://registry.yarnpkg.com/next-offline/-/next-offline-0.2.0-7.tgz#5cd817c9397cc89565a7aaccd56d1917a02b2f98"
+next-offline@^0.2.0-9:
+  version "0.2.0-9"
+  resolved "https://registry.yarnpkg.com/next-offline/-/next-offline-0.2.0-9.tgz#a518d9d9e2aab9cd9f368d3fd8a695fe503e1431"
   dependencies:
     globby "~8.0.0"
     is-empty-object "~1.1.1"
